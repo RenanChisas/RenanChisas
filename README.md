@@ -1,16 +1,18 @@
-### Hi there 👋
+## Apenas Um Chisas 
+<div>
+<img align="left" src="https://github.com/RenChisaki/RenChisaki/blob/main/image/spike.jpg" alt="spike de cowboy bebop" width="320"/> 
 
-<!--
-**RenChisaki/RenChisaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+☁ Só procurando algo que me fazer sair desse tédio 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Vou usar esse git como diario vou postar tudo que estou estudando no momento
+```
+<div>
+
+## Linguagens de programação que eu me garanto:
+
+<div>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img height=50 src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/>
+<div>
