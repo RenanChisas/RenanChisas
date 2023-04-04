@@ -3,8 +3,7 @@
 <img align="left" src="https://github.com/RenChisaki/RenChisaki/blob/main/image/spike.jpg" alt="spike de cowboy bebop" width="320"/> 
 
 ```
-☁ Só procurando algo que me fazer sair desse tédio 
-
+🩸 Só procurando algo que me fazer sair desse tédio 
 
 📚 Vou usar esse git como diario vou postar tudo que estou estudando no momento
 ```
