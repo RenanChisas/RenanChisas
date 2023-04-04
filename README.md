@@ -1,7 +1,9 @@
 ## Apenas Um Chisas 
 <div>
 <img align="left" src="https://github.com/RenChisaki/RenChisaki/blob/main/image/spike.png" alt="spike de cowboy bebop" width="320"/> 
-
+  
+## Whatever happens, happens... 
+  
 ```
 🩸 Só procurando algo que me fazer sair desse tédio 
 
