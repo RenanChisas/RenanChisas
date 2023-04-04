@@ -1,6 +1,6 @@
 ## Apenas Um Chisas 
 <div>
-<img align="left" src="https://github.com/RenChisaki/RenChisaki/blob/main/image/spike.jpg" alt="spike de cowboy bebop" width="320"/> 
+<img align="left" src="https://github.com/RenChisaki/RenChisaki/blob/main/image/spike.png" alt="spike de cowboy bebop" width="320"/> 
 
 ```
 🩸 Só procurando algo que me fazer sair desse tédio 
