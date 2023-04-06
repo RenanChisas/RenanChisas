@@ -5,7 +5,7 @@
 ## Whatever happens, happens... 
   
 ```
-🩸 Só procurando algo que me fazer sair desse tédio 
+🩸 Só procurando algo que me faça sair desse tédio 
 
 📚 Vou usar esse git como diario vou postar tudo que estou estudando no momento
 ```
