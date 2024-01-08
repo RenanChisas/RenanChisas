@@ -1,16 +1,16 @@
-## Apenas Um Chisas 
+## Apenas Uma Maquina 
 <div>
-<img align="left" src="https://github.com/RenChisaki/RenChisaki/blob/main/image/spike.png" alt="spike de cowboy bebop" width="320"/> 
+<img align="left" src="https://github.com/RenChisaki/RenChisaki/blob/main/image/spike2.jpg" alt="spike de cowboy bebop" width="320"/> 
   
 ## SEE YOU SPACE COWBOY... 
   
-```java
+```
 🩸 Só procurando algo que me faça sair desse tédio 
 
 📚 Vou usar esse git como capsula vou postar tudo que estou estudando no momento
 ```
 </div>
-<div align='right'>
+<div>
   
   ## Linguagens de programação que eu me garanto:
   
