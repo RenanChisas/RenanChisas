@@ -24,7 +24,7 @@
   
   <div>
     
-  ## Frameworks que já utilizei:
+  ## Tecnologias que já utilizei:
   
   <img height=50 src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png"/>
   <img height=50 src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_original_logo_icon_146559.png"/>
