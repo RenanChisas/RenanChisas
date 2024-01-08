@@ -2,12 +2,12 @@
 <div>
 <img align="left" src="https://github.com/RenChisaki/RenChisaki/blob/main/image/spike.png" alt="spike de cowboy bebop" width="320"/> 
   
-## Whatever happens, happens... 
+## SEE YOU SPACE COWBOY... 
   
 ```
 🩸 Só procurando algo que me faça sair desse tédio 
 
-📚 Vou usar esse git como diario vou postar tudo que estou estudando no momento
+📚 Vou usar esse git como capsula vou postar tudo que estou estudando no momento
 ```
 <div>
 
