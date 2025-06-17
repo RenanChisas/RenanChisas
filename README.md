@@ -1,4 +1,4 @@
-## Apenas Uma Maquina 
+
 <div>
 <img align="left" src="https://github.com/RenChisaki/RenChisaki/blob/main/image/spike2.jpg" alt="spike de cowboy bebop" width="320"/> 
   
