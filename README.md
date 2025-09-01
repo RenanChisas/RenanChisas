@@ -5,8 +5,6 @@
 ## SEE YOU SPACE COWBOY... 
   
 ```
-🩸 Só procurando algo que me faça sair desse tédio 
-
 📚 Vou usar esse git como capsula vou postar tudo que estou estudando no momento
 ```
 </div>
